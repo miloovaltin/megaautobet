@@ -1,0 +1,17 @@
+
+{
+"name": "megaautobet",
+"theme": "mega autobet",
+"version": "7.3.6",
+"description": "mega autobet ทางเข้าเว็บแทงบอลเว็บตรง อันดับ 1 รับเครดิตฟรี",
+"keywords": [
+"mega autobet",
+"mega autobet เครดิตฟรี",
+"mega autobet ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/megaautobet",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
